@@ -3,7 +3,7 @@ layout: post
 title:  "Moon Landing- way to Heaven"
 author: AstromuonKuki
 categories: [ Astronomy ]
-image: /assets/images/posts/is-there-a-god.jpg
+image: ../assets/images/posts/is-there-a-god.jpg
 tags: [ moon, apollo, landing, missions, astronauts, NASA, ISRO ]
 ---
 
