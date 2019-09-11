@@ -5,6 +5,7 @@ author: AstromuonKuki
 categories: [ Astronomy ]
 image: ../assets/images/posts/ImportanceOfScienceEducation.jpg
 tags: [ technology, astronomy, aerospace, engineering, Astrophysics, Science, space ]
+featured: true
 ---
 The present era is the era of science. Science has undoubtedly done a great service to mankind. Man, a rational being, has been curious to explore mysteries of nature and this led to many discoveries being made in various part of the world. But he is never satisfied with the acquired knowledge and is always keen to unravelled mysteries of the universe. He has conquered the land and air. His incredible lust for knowledge has revolutionized human life and raised the standard of life.He was able to invent innumerable ways of making his life comfortable and happy. Every sphere of life has been revolutionized by science. Science asks numerous questions, would it be possible to walk through walls? To build starship that can travel faster than the speed of light? To read other people's minds? To become invisible? To move objects with the power of our minds?To transport our bodies instantly through outer space? Where did the universe come from,and where is it going?Did the universe have a beginning,and if so,where is it going?Did the universe have a beginning,and if so,what happened before then?What is the nature of time?Will it ever come to an end? and so on... 
 
