@@ -4,8 +4,7 @@ title:  "Is there a GOD?"
 author: AstromuonKuki
 categories: [ Phiolosophy ]
 image: ../assets/images/posts/is-there-a-god.jpg
-tags: [ philosophy, existence, god, metaphysics ]
-featured: true
+tags: [ featured, philosophy, existence, god, metaphysics ]
 ---
 
 We were told that you never get something for nothing. But now, after a lifetime of work, I think that actually you can get a whole universe for free. The great mystery at the heart of the Big Bang is to explain how an entire, fantastically enormous universe of space and energy can materialise out of nothing. The secret lies in one of the strangest facts about our cosmos. The laws of physics demand the existence of something called ‘negative energy’. To help you get your head around this weird but crucial concept, let me draw on a simple analogy.
