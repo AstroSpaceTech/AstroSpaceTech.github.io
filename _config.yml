@@ -1,0 +1,76 @@
+# Site
+name: 'AstroSpaceTech'
+description: 'This blog will brings you to enlighten mainly about Astronomy(Cosmology), Aerospace engineering and Technology✌'
+logo: "../assets/images/logo.png"
+favicon: "../assets/images/favicon.ico"
+#baseurl: '/mundana-theme-jekyll'
+disqus: 'astrospacetech'
+email: 'admin@astrospacetech.in'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    AstromuonKuki:
+      name: AstromuonKuki
+      site: https://blog.astrospacetech.in
+      avatar: ../assets/images/avatars/AstroMuonKuki.jpg
+      bio: Aerospace Engineer, Writer, and an aspiring Astronomer.
+      email: kuki@astrospacetech.in
+      youtube: https://www.youtube.com/channel/UC7GqCFeK4-9yo_CsXmckIxQ
+      facebook: https://facebook.com/AstroSpaceTech/
+
+    XinYaanZyoy:
+      name: XinYaanZyoy
+      site: https://XinYaanZyoy.github.io
+      avatar: ../assets/images/avatar2.jpg
+      bio: an Explorer
+      email: tech@astrospacetech.in
+      twitter: https://twitter.com/XinYaanZyoy
+      github: https://github.com/XinYaanZyoy
+      facebook: https://facebook.com/49yatriyaan.love
+
+    AstroSpaceTech:
+      name: AstroSpaceTech
+      site: "/"
+      avatar: ../assets/images/logo.png
+      bio: something
+      email: admin@astrospacetech.in
+      instagram: https://instagram.com/astrospacetech
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: AstroSpaceTech
+      avatar: /assets/images/logo.png
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 3
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
