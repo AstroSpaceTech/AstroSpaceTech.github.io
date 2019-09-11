@@ -4,7 +4,7 @@ title:  "Space Travel is No Sunday Picnic"
 author: AstromuonKuki
 categories: [ Astronomy ]
 image: ../assets/images/posts/SpaceIsNoPicnic.jpg
-tags: [ technology, astronomy, aerospace, engineering ]
+tags: [ sticky, technology, astronomy, aerospace, engineering ]
 ---
 As the old Chinese proverb says,the journey of a thousand miles begins with the first step.The journey to the space starts with the very first rocket🚀
 
