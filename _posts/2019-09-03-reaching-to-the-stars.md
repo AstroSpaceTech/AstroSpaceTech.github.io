@@ -4,7 +4,7 @@ title:  "Reaching To The Stars"
 author: AstromuonKuki
 categories: [ Astronomy ]
 image: ../assets/images/posts/reaching-to-the-stars.jpg
-tags: [ technology, astronomy, aerospace, engineering, Astrophysics, Science, space ]
+tags: [ sticky, technology, astronomy, aerospace, engineering, Astrophysics, Science, space ]
 ---
 PROLOGUE:
 When I was a child I often think that one day I'll plan on travelling to the stars.It intrigued what lies beyond the stars,how we could terraform on stars.Hitherto,my mind is flummox whenever talking about the space exploration.It overwhelms and hypnotize in pretext of Space.Space is for everybody. It's not just for a few people in science or math, or for a select group of astronauts. That's our new frontier out there, and it's everybody's business to know about space.Take a breathe!
