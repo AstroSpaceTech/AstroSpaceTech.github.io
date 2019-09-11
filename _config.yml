@@ -3,10 +3,10 @@ name: 'AstroSpaceTech'
 description: 'This blog will brings you to enlighten mainly about Astronomy(Cosmology), Aerospace engineering and Technology✌'
 logo: "/assets/images/logo.png"
 favicon: "/assets/images/favicon.ico"
-#baseurl: '/mundana-theme-jekyll'
+baseurl: '/'
 disqus: 'astrospacetech'
 email: 'admin@astrospacetech.in'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://astrospacetech.us4.list-manage.com/subscribe/post?u=3f09cf1bc456c7a0f07406116&amp;id=db468df3cc'
 
 include: ["_pages"]
 permalink: /:title/
