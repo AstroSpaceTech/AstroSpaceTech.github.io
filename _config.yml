@@ -1,8 +1,8 @@
 # Site
 name: 'AstroSpaceTech'
 description: 'This blog will brings you to enlighten mainly about Astronomy(Cosmology), Aerospace engineering and Technology✌'
-logo: "../assets/images/logo.png"
-favicon: "../assets/images/favicon.ico"
+logo: "/assets/images/logo.png"
+favicon: "/assets/images/favicon.ico"
 #baseurl: '/mundana-theme-jekyll'
 disqus: 'astrospacetech'
 email: 'admin@astrospacetech.in'
