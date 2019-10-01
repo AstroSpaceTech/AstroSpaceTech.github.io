@@ -8,9 +8,9 @@ jobs:
 #       - run: git init && git remote add origin https://github.com/AstroSpaceTech/AstroSpaceTech.github.io
 #       - run: git pull origin master
 #       - run: pwd && ls -a && git remote -v
-      - run:
-          name: runnning transformation script
-          command: make transform
+        - run:
+            name: runnning transformation script
+            command: make transform
 workflows:
   version: 2
   build:
