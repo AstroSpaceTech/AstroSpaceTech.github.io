@@ -6,7 +6,7 @@ jobs:
 #       - run:
 #           name: git repo configs
 #           command:
-#             - cd / && mkdir AST && cd AST
+#             - cd $HOME && mkdir AST && cd AST
 #             - git remote add origin https://github.com/AstroSpaceTech/AstroSpaceTech.github.io
 #             - git pull origin master
       - run: cd / && mkdir AST && cd AST
