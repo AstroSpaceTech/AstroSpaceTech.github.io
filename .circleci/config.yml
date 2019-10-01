@@ -3,12 +3,13 @@ jobs:
   new_post:
     machine: true
     steps:
-      - run:
-          name: git repo configs
-          command:
-            - cd / && mkdir AST && cd AST
-            - git remote add origin https://github.com/AstroSpaceTech/AstroSpaceTech.github.io
-            - git pull origin master
+#       - run:
+#           name: git repo configs
+#           command:
+#             - cd / && mkdir AST && cd AST
+#             - git remote add origin https://github.com/AstroSpaceTech/AstroSpaceTech.github.io
+#             - git pull origin master
+      - cd / && mkdir AST && cd AST && git remote add origin https://github.com/AstroSpaceTech/AstroSpaceTech.github.io && git pull origin master
       - run: pwd && ls -a && git remote -v
       - run:
           name: runnning transformation script
