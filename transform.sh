@@ -15,10 +15,13 @@ if [ -d "$DIR" ]; then
                     mkdir "../_$DIR"
                 fi
                 echo "transforming: $f => "../_$DIR/$TODATE-$f"";
-                cat ${f%.*}.yml $f > "../_$DIR/$TODATE-$f";
-#                 echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $(date)"$'\n'"---" > tmp;
-#                 cat tmp $f > "../_$DIR/$TODATE-$f";
-                status=true;
+                if [ -f ${f%.*}.yml ]; then
+                    cat ${f%.*}.yml $f > "../_$DIR/$TODATE-$f";
+                    status=true;
+                else
+                    echo "${f%.*}.yml header doesn't exists!";
+                    status=false;
+                fi
             done
         if [ "$status" = true ]; then
             echo "changing directory to root of this repo";
