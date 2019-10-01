@@ -1,0 +1,12 @@
+version: 2
+jobs:
+  new_post:
+    steps:
+      - run:
+          name: runnning transformation script
+          command: make transform
+workflows:
+  version: 2
+  build:
+    jobs:
+      - new_post
