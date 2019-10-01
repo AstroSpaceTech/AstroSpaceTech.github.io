@@ -1,8 +1,7 @@
 version: 2
 jobs:
   new_post:
-    machine:
-      image: ubuntu-1604
+    machine: true
     steps:
       - run:
           name: runnning transformation script
