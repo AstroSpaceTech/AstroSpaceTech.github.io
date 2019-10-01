@@ -26,7 +26,7 @@ if [ -d "$DIR" ]; then
             rm -r -f $DIR;
             echo $'\n'"git status: $(git status)"$'\n';
             git config --global user.name XinYaanZyoy && git config --global user.email XinYaanZyoy@gmail.com
-            git add . && git commit -m "transformation: $(date)"
+            git add . && git commit -m "transformation: $(date) [ skip ci ]"
             git push "https://XinYaanZyoy:$GH_PAT@github.com/AstroSpaceTech/AstroSpaceTech.github.io.git" HEAD:master
         fi
     else
