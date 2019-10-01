@@ -8,15 +8,16 @@ if [ -d "$DIR" ]; then
     cd $DIR;
     TODATE=$(date +%F);
     if [ "$(ls -A)" ]; then
-        find *.* -type f -exec echo Found file {} \;
+        find *.md -type f -exec echo Found file {} \;
         for f in *.*
             do
                 if [ ! -d "../_$DIR" ]; then
                     mkdir "../_$DIR"
                 fi
                 echo "transforming: $f => "../_$DIR/$TODATE-$f"";
-                echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $(date)"$'\n'"---" > tmp;
-                cat tmp $f > "../_$DIR/$TODATE-$f";
+                cat ${f%.*}.yml $f > "../_$DIR/$TODATE-$f";
+#                 echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $(date)"$'\n'"---" > tmp;
+#                 cat tmp $f > "../_$DIR/$TODATE-$f";
                 status=true;
             done
         if [ "$status" = true ]; then
