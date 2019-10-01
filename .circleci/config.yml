@@ -3,13 +3,7 @@ jobs:
   new_post:
     machine: true
     steps:
-#       - run:
-#           name: git repo configs
-#           command:
-#             - cd $HOME && mkdir AST && cd AST
-#             - git remote add origin https://github.com/AstroSpaceTech/AstroSpaceTech.github.io
-#             - git pull origin master
-      - run: cd / && mkdir AST && cd AST
+      - run: cd $HOME/ && mkdir AST && cd AST
       - run: git init && git remote add origin https://github.com/AstroSpaceTech/AstroSpaceTech.github.io
       - run: git pull origin master
       - run: pwd && ls -a && git remote -v
