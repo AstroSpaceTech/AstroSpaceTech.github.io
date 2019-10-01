@@ -3,6 +3,7 @@ jobs:
   new_post:
     machine: true
     steps:
+      - checkout
       - run:
           name: runnning transformation script
           command: make transform
