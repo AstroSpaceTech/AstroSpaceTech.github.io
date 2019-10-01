@@ -4,10 +4,6 @@ jobs:
     machine: true
     steps:
         - checkout
-#       - run: cd $HOME/ && mkdir AST && cd AST
-#       - run: git init && git remote add origin https://github.com/AstroSpaceTech/AstroSpaceTech.github.io
-#       - run: git pull origin master
-#       - run: pwd && ls -a && git remote -v
         - run:
             name: runnning transformation script
             command: make transform
