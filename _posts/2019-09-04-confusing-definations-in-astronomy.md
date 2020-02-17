@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Confusing definations in Astronomy"
+title:  "Confusing definitions in Astronomy"
 author: AstromuonKuki
 categories: [ Astronomy ]
 image: ../assets/images/posts/confusing-definations-in-astronomy.jpg
