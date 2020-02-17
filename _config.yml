@@ -21,6 +21,7 @@ teams:
       name: Astronomy
       avatar: ../assets/images/avatars/astro.jpg
       details: this is astro team
+      contact:
       members:
         - AstromuonKuki
         - Anudeep
@@ -29,6 +30,7 @@ teams:
       name: Aerospace
       avatar: ../assets/images/avatars/spacescience.jpg
       details: this is space science team
+      constact:
       members:
         - XinYaanZyoy
         - AstromuonKuki
@@ -36,6 +38,7 @@ teams:
       name: Technology
       avatar: ../assets/images/avatars/tech.jpg
       details: this is technology team
+      contact:
       members:
         - XinYaanZyoy
         - BrianBlasius
