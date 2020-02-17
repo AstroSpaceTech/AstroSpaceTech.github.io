@@ -21,6 +21,8 @@ teams:
       name: Astronomy Team
       members:
         - AstromuonKuki
+        - Anudeep
+        - AvinabaMajumdar
     Space:
       name: SpaceScience Team
       members:
@@ -30,6 +32,7 @@ teams:
       name: Technology team
       members:
         - XinYaanZyoy
+        - BrianBlasius
   
 authors:
     AstromuonKuki:
@@ -84,6 +87,9 @@ members:
     
     BrianBlasius:
       name: Brian Blasius
+      avatar: ../assets/images/avatars/brian.jpeg
+      bio: I wish to make smart engineered systems  that can be used to help humanity, in earth and beyond.
+      email: einsteinblasius@gmail.com
     
     Anudeep:
       name: Anudeep
