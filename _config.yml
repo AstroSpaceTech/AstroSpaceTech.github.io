@@ -19,17 +19,23 @@ plugins:
 teams:
     Astro:
       name: Astronomy Team
+      avatar: ../assets/images/avatars/astro.jpg
+      details: this is astro team
       members:
         - AstromuonKuki
         - Anudeep
         - AvinabaMajumdar
     Space:
       name: SpaceScience Team
+      avatar: ../assets/images/avatars/spacescience.jpg
+      details: this is space science team
       members:
         - XinYaanZyoy
         - AstromuonKuki
     Tech:
       name: Technology team
+      avatar: ../assets/images/avatars/tech.jpg
+      details: this is technology team
       members:
         - XinYaanZyoy
         - BrianBlasius
