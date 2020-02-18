@@ -27,12 +27,12 @@ teams:
       members:
         Anudeep:
           name: Anudeep
-          avatar: ../assets/images/avatars/anudeep.jpeg
+          avatar: ../assets/images/avatars/anudeep.jpg
           bio: I'm pursuing my B.Tech in Mechanical and Automation Engineering(final year) from Amity University
           email: meharanudeep.183@gmail.com
         AvinabaMajumdar:
           name: AvinabaMajumdar
-          avatar: ../assets/images/avatars/Alex.jpeg
+          avatar: ../assets/images/avatars/Alex.jpg
           bio: Research at the New-York acedamy of sciences
           email: avinaba.wtms@gmail.com
     Space:
@@ -45,7 +45,7 @@ teams:
       members:
         BrianBlasius:
           name: Brian Blasius
-          avatar: ../assets/images/avatars/brian.jpeg
+          avatar: ../assets/images/avatars/brian.jpg
           bio: I wish to make smart engineered systems  that can be used to help humanity, in earth and beyond.
           email: einsteinblasius@gmail.com
     Tech:
