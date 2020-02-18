@@ -33,7 +33,7 @@ teams:
         AvinabaMajumdar:
           name: AvinabaMajumdar
           avatar: ../assets/images/avatars/Alex.jpg
-          bio: Junior Researcher at the New-York acedamy of sciences. <br> West Bengal, 🇮🇳 India.
+          bio: Junior Researcher at the New-York Acedamy of sciences. <br> West Bengal, 🇮🇳 India.
           email: avinaba.wtms@gmail.com
     Space:
       name: Aerospace
@@ -60,7 +60,7 @@ teams:
           name: XinYaanZyoy
           site: https://XinYaanZyoy.github.io
           avatar: ../assets/images/avatars/XinYaanZyoy.png
-          bio: CTO of astrospacetech.in, an Explorer of information, and a metaphysicist!, Gujarat, 🇮🇳 India.
+          bio: CTO of astrospacetech.in, an Explorer of Information, and a Metaphysicist!, Gujarat, 🇮🇳 India.
           email: tech@astrospacetech.in
           twitter: https://twitter.com/XinYaanZyoy
           github: https://github.com/XinYaanZyoy
