@@ -3,7 +3,7 @@
     "short_name": "AstroSpaceTech",
     "start_url": "/?utm_source=homescreen",
     "background_color": "#000",
-    "theme_color": "#536878",
+    "theme_color": "#40cf51",
     "display": "standalone",
     "orientation": "portrait",
     "icons": { "16": "assets/images/favicon.ico",
