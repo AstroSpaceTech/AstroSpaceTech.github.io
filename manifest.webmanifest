@@ -6,12 +6,11 @@
     "theme_color": "#536878",
     "display": "standalone",
     "orientation": "portrait",
-    "icons": [
-      {
-        "src":"assets/images/favicon.ico",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
-    ],
+    "icons": { "16": "assets/images/favicon.ico",
+               "32": "assets/images/favicon.ico",
+               "48": "assets/images/favicon.ico",
+               "64": "assets/images/favicon.ico",
+               "128": "icon128.pngassets/images/favicon.ico"
+             },
     "gcm_sender_id": "103953800507"
   }
