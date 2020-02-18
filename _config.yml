@@ -28,7 +28,7 @@ teams:
         - AvinabaMajumdar
     Space:
       name: Aerospace
-      avatar: ../assets/images/avatars/spacescience.jpg
+      avatar: ../assets/images/avatars/aerospace.jpg
       details: this is space science team
       constact:
       members:
