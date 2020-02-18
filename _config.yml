@@ -19,29 +19,53 @@ plugins:
 teams:
     Astro:
       name: Astronomy
+      leader: Anudeep
+      assistant: AvinabaMajumdar
       avatar: ../assets/images/avatars/astro.jpg
       details: this is astro team
       contact:
       members:
-        - AstromuonKuki
-        - Anudeep
-        - AvinabaMajumdar
+        Anudeep:
+          name: Anudeep
+          avatar: ../assets/images/avatars/anudeep.jpeg
+          bio: I'm pursuing my B.Tech in Mechanical and Automation Engineering(final year) from Amity University
+          email: meharanudeep.183@gmail.com
+        AvinabaMajumdar:
+          name: AvinabaMajumdar
+          avatar: ../assets/images/avatars/Alex.jpeg
+          bio: Research at the New-York acedamy of sciences
+          email: avinaba.wtms@gmail.com
     Space:
       name: Aerospace
+      head: BrianBlasius
+      assistant:
       avatar: ../assets/images/avatars/aerospace.jpg
       details: this is space science team
       constact:
       members:
-        - XinYaanZyoy
-        - AstromuonKuki
+        BrianBlasius:
+          name: Brian Blasius
+          avatar: ../assets/images/avatars/brian.jpeg
+          bio: I wish to make smart engineered systems  that can be used to help humanity, in earth and beyond.
+          email: einsteinblasius@gmail.com
     Tech:
       name: Technology
+      head: XinYaanZyoy
+      assistant:
       avatar: ../assets/images/avatars/tech.jpg
       details: this is technology team
       contact:
       members:
-        - XinYaanZyoy
-        - BrianBlasius
+        XinYaanZyoy:
+          name: XinYaanZyoy
+          site: https://XinYaanZyoy.github.io
+          avatar: ../assets/images/avatars/XinYaanZyoy.png
+          bio: CTO of astrospacetech.in, an Explorer of information, and a metaphysicist!
+          email: tech@astrospacetech.in
+          twitter: https://twitter.com/XinYaanZyoy
+          github: https://github.com/XinYaanZyoy
+          facebook: https://facebook.com/49yatriyaan.love
+          instagram: https://instagram.com/49yatriyaan.love
   
 authors:
     AstromuonKuki:
@@ -52,7 +76,6 @@ authors:
       email: kuki@astrospacetech.in
       youtube: https://www.youtube.com/channel/UC7GqCFeK4-9yo_CsXmckIxQ
       facebook: https://facebook.com/AstroSpaceTech/
-
     XinYaanZyoy:
       name: XinYaanZyoy
       site: https://XinYaanZyoy.github.io
@@ -63,7 +86,6 @@ authors:
       github: https://github.com/XinYaanZyoy
       facebook: https://facebook.com/49yatriyaan.love
       instagram: https://instagram.com/49yatriyaan.love
-
     AstroSpaceTech:
       name: AstroSpaceTech
       site: "/"
@@ -72,46 +94,7 @@ authors:
       email: admin@astrospacetech.in
       instagram: https://instagram.com/astrospacetech
       facebook: https://facebook.com/AstroSpaceTech.in
-      
-members:
-    AstromuonKuki:
-      name: AstromuonKuki
-      site: https://blog.astrospacetech.in
-      avatar: ../assets/images/avatars/AstroMuonKuki.jpg
-      bio: CEO of Astrospacetech.in, Aerospace Engineer, Writer, and an aspiring Astronomer.
-      email: kuki@astrospacetech.in
-      youtube: https://www.youtube.com/channel/UC7GqCFeK4-9yo_CsXmckIxQ
-      facebook: https://facebook.com/AstroSpaceTech/
-    
-    XinYaanZyoy:
-      name: XinYaanZyoy
-      site: https://XinYaanZyoy.github.io
-      avatar: ../assets/images/avatars/XinYaanZyoy.png
-      bio: CTO of astrospacetech.in, an Explorer of information, and a metaphysicist!
-      email: tech@astrospacetech.in
-      twitter: https://twitter.com/XinYaanZyoy
-      github: https://github.com/XinYaanZyoy
-      facebook: https://facebook.com/49yatriyaan.love
-      instagram: https://instagram.com/49yatriyaan.love
-    
-    BrianBlasius:
-      name: Brian Blasius
-      avatar: ../assets/images/avatars/brian.jpeg
-      bio: I wish to make smart engineered systems  that can be used to help humanity, in earth and beyond.
-      email: einsteinblasius@gmail.com
-    
-    Anudeep:
-      name: Anudeep
-      avatar: ../assets/images/avatars/anudeep.jpeg
-      bio: I'm pursuing my B.Tech in Mechanical and Automation Engineering(final year) from Amity University
-      email: meharanudeep.183@gmail.com
-    
-    AvinabaMajumdar:
-      name: AvinabaMajumdar
-      avatar: ../assets/images/avatars/Alex.jpeg
-      bio: Research at the New-York acedamy of sciences
-      email: avinaba.wtms@gmail.com
-
+     
 defaults:
   - scope:
       path: "_posts"
