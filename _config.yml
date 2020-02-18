@@ -28,12 +28,12 @@ teams:
         Anudeep:
           name: Anudeep
           avatar: ../assets/images/avatars/anudeep.jpg
-          bio: Student of Mechanical and Automation Engineering <br> Rajasthaan, India
+          bio: Student of Mechanical and Automation Engineering. <br> Rajasthaan, 🇮🇳 India.
           email: meharanudeep.183@gmail.com
         AvinabaMajumdar:
           name: AvinabaMajumdar
           avatar: ../assets/images/avatars/Alex.jpg
-          bio: Junior Researcher at the New-York acedamy of sciences
+          bio: Junior Researcher at the New-York acedamy of sciences. <br> West Bengal, 🇮🇳 India.
           email: avinaba.wtms@gmail.com
     Space:
       name: Aerospace
@@ -46,7 +46,7 @@ teams:
         BrianBlasius:
           name: Brian Blasius
           avatar: ../assets/images/avatars/brian.jpg
-          bio: I wish to make smart engineered systems  that can be used to help humanity, in earth and beyond.
+          bio: Student of Mechatronics. <br> 🇰🇪 Kenya.
           email: einsteinblasius@gmail.com
     Tech:
       name: Technology
@@ -60,7 +60,7 @@ teams:
           name: XinYaanZyoy
           site: https://XinYaanZyoy.github.io
           avatar: ../assets/images/avatars/XinYaanZyoy.png
-          bio: CTO of astrospacetech.in, an Explorer of information, and a metaphysicist!
+          bio: CTO of astrospacetech.in, an Explorer of information, and a metaphysicist!, Gujarat, 🇮🇳 India.
           email: tech@astrospacetech.in
           twitter: https://twitter.com/XinYaanZyoy
           github: https://github.com/XinYaanZyoy
