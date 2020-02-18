@@ -6,12 +6,6 @@
     "theme_color": "#40cf51",
     "display": "standalone",
     "orientation": "portrait",
-    "icons": { "16": "",
-               "32": "assets/images/favicon.ico",
-               "48": "assets/images/favicon.ico",
-               "64": "assets/images/favicon.ico",
-               "128": "icon128.pngassets/images/favicon.ico"
-             },
     "icons": [
       {
         "src":"assets/images/favicon.ico",
