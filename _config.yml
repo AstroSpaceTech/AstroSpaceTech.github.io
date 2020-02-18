@@ -28,12 +28,12 @@ teams:
         Anudeep:
           name: Anudeep
           avatar: ../assets/images/avatars/anudeep.jpg
-          bio: I'm pursuing my B.Tech in Mechanical and Automation Engineering(final year) from Amity University
+          bio: Student of Mechanical and Automation Engineering <br> Rajasthaan, India
           email: meharanudeep.183@gmail.com
         AvinabaMajumdar:
           name: AvinabaMajumdar
           avatar: ../assets/images/avatars/Alex.jpg
-          bio: Research at the New-York acedamy of sciences
+          bio: Junior Researcher at the New-York acedamy of sciences
           email: avinaba.wtms@gmail.com
     Space:
       name: Aerospace
