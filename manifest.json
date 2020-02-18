@@ -1,0 +1,17 @@
+{
+    "name": "AstroSpaceTech",
+    "short_name": "AstroSpaceTech",
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#000",
+    "theme_color": "#536878",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src":"assets/images/favicon.ico",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "gcm_sender_id": "103953800507"
+  }
