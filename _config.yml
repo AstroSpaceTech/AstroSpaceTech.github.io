@@ -50,7 +50,7 @@ teams:
           email: einsteinblasius@gmail.com
         Norbu:
           name: Kinley Norbu
-          avatar:
+          avatar: ../assets/images/avatars/norbu.jpg
           bio:  Drilling engineer; Department of Geology and Mine Under Ministry of Economic Affairs(Bhutan), and degree in Mechatronics Engineer, 🇧🇹 Bhutan.
           email: drogpo.nk@gmail.com
     Tech:
