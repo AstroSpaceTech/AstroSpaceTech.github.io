@@ -48,6 +48,11 @@ teams:
           avatar: ../assets/images/avatars/brian.jpg
           bio: Student of Mechatronics. <br> Malindi, 🇰🇪 Kenya.
           email: einsteinblasius@gmail.com
+        Norbu:
+          name: Kinley Norbu
+          avatar:
+          bio:  Drilling engineer; Department of Geology and Mine Under Ministry of Economic Affairs(Bhutan), and degree in Mechatronics Engineer, 🇧🇹 Bhutan.
+          email: drogpo.nk@gmail.com
     Tech:
       name: Technology
       head: XinYaanZyoy
