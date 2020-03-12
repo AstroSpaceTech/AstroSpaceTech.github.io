@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dragon Lady"
-author: XinYaanZyoy
+author: AstromuonKuki
 categories: [ Aerospace ]
 image: ../assets/images/posts/dragonlady.jpg
 tags: [ technology, aviation, aerospace, engineering ]
