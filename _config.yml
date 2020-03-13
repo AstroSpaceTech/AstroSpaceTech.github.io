@@ -2,7 +2,7 @@ name: 'AstroSpaceTech'
 description: "AstroSpaceTech is an international platform for various STEM students mainly focus only on Astronomy, Aerospace engineering and Technology.The goal is to give best gateway for the next humanity, brings down space objects on Earth, build our own rockets and contribute our innovator ideas for the development of human civilization.Currently, we are doing research on our domains and exchanging our ideas through online platform."
 logo: "/assets/images/logo.png"
 favicon: "/assets/images/favicon.ico"
-baseurl: 'https://astrospacetech.in'
+baseurl: ''
 disqus: 'astrospacetech'
 email: 'admin@astrospacetech.in'
 mailchimp-list: 'https://astrospacetech.us4.list-manage.com/subscribe/post?u=3f09cf1bc456c7a0f07406116&amp;id=db468df3cc'
