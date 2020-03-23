@@ -17,34 +17,49 @@ permalink: "/author-astrospacetech.html"
                 <img alt="{{ site.authors.AstroSpaceTech.name }}" src="{{site.baseurl}}/{{ site.authors.AstroSpaceTech.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
             <div>
-                {% if author[1].site %}
+                {% if site.authors.AstroSpaceTech.site %}
                 <a target="_blank" href="{{ site.authors.AstroSpaceTech.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
                 {% endif %}
 
-                {% if author[1].twitter %}
+                {% if site.authors.AstroSpaceTech.twitter %}
                 <a target="_blank" href="{{ site.authors.AstroSpaceTech.twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
                 {% endif %}
 
-                {% if author[1].github %}
+                {% if site.authors.AstroSpaceTech.github %}
                 <a target="_blank" href="{{ site.authors.AstroSpaceTech.github }}"><i class="fab fa-github text-muted" aria-hidden="true"></i></a>  &nbsp;                
                 {% endif %}
 
-                {% if author[1].facebook %}
+                {% if site.authors.AstroSpaceTech.facebook %}
                 <a target="_blank" href="{{ site.authors.AstroSpaceTech.facebook }}"><i class="fab fa-facebook text-muted" aria-hidden="true"></i></a>  &nbsp;                
                 {% endif %}
 
-                {% if author[1].youtube %}
+                {% if site.authors.AstroSpaceTech.youtube %}
                 <a target="_blank" href="{{ site.authors.AstroSpaceTech.youtube }}"><i class="fab fa-youtube text-muted" aria-hidden="true"></i></a>  &nbsp;                                
                 {% endif %}
 
-                {% if author[1].instagram %}
+                {% if site.authors.AstroSpaceTech.instagram %}
                 <a target="_blank" href="{{ site.authors.AstroSpaceTech.instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;
                 {% endif %}
+                
+                {% if site.authors.AstroSpaceTech.spotify %}
+                <a target="_blank" href="{{ site.authors.AstroSpaceTech.spotify }}"><i class="fab fa-spotify text-muted" aria-hidden="true"></i></a>  &nbsp;
+                {% endif %}
 
-                {% if author[1].linkedIn %}
+                {% if site.authors.AstroSpaceTech.linkedIn %}
                 <a target="_blank" href="{{ site.authors.AstroSpaceTech.linkedIn }}"><i class="fab fa-linkedIn text-muted" aria-hidden="true"></i></a>  &nbsp;
                 {% endif %}
                 
+                {% if site.authors.AstroSpaceTech.messenger %}
+                <a target="_blank" href="{{ site.authors.AstroSpaceTech.messenger }}"><i class="fab fa-facebook-messenger text-muted" aria-hidden="true"></i></a>  &nbsp;
+                {% endif %}
+
+                {% if site.authors.AstroSpaceTech.whatsapp %}
+                <a target="_blank" href="{{ site.authors.AstroSpaceTech.whatsapp }}"><i class="fab fa-whatsapp text-muted" aria-hidden="true"></i></a> &nbsp;
+                {% endif %}
+
+                {% if site.authors.AstroSpaceTech.email %}
+                <a target="_top" href="mailto:{{ site.authors.AstroSpaceTech.email }}"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
+                {% endif %}
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
