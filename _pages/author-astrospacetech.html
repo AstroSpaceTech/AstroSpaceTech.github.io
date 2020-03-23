@@ -10,13 +10,7 @@ permalink: "/author-astrospacetech.html"
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
                 <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.AstroSpaceTech.facebook }}">Follow</a></span></h2>
-                <p><a href="{{ site.authors.AstroSpaceTech.site }}">{{ site.authors.AstroSpaceTech.site }}</a></p>
-                <p class="excerpt">{{ site.authors.AstroSpaceTech.bio }}</p>
-            </div>
-            <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.AstroSpaceTech.name }}" src="{{site.baseurl}}/{{ site.authors.AstroSpaceTech.avatar }}" class="rounded-circle" height="100" width="100">
-            </div>
-            <div>
+                <div>
                 {% if site.authors.AstroSpaceTech.site %}
                 <a target="_blank" href="{{ site.authors.AstroSpaceTech.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
                 {% endif %}
@@ -60,6 +54,11 @@ permalink: "/author-astrospacetech.html"
                 {% if site.authors.AstroSpaceTech.email %}
                 <a target="_top" href="mailto:{{ site.authors.AstroSpaceTech.email }}"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
                 {% endif %}
+            </div>
+                <p class="excerpt">{{ site.authors.AstroSpaceTech.bio }}</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="{{ site.authors.AstroSpaceTech.name }}" src="{{site.baseurl}}/{{ site.authors.AstroSpaceTech.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
