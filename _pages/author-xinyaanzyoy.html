@@ -16,6 +16,36 @@ permalink: "/author-xinyaanzyoy.html"
             <div class="col-md-3 text-right">
                 <img alt="{{ site.authors.XinYaanZyoy.name }}" src="{{site.baseurl}}/{{ site.authors.XinYaanZyoy.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
+            <div>
+                {% if author[1].site %}
+                <a target="_blank" href="{{ author[1].site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+                {% endif %}
+
+                {% if author[1].twitter %}
+                <a target="_blank" href="{{ author[1].twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+                {% endif %}
+
+                {% if author[1].github %}
+                <a target="_blank" href="{{ author[1].github }}"><i class="fab fa-github text-muted" aria-hidden="true"></i></a>  &nbsp;                
+                {% endif %}
+
+                {% if author[1].facebook %}
+                <a target="_blank" href="{{ author[1].facebook }}"><i class="fab fa-facebook text-muted" aria-hidden="true"></i></a>  &nbsp;                
+                {% endif %}
+
+                {% if author[1].youtube %}
+                <a target="_blank" href="{{ author[1].youtube }}"><i class="fab fa-youtube text-muted" aria-hidden="true"></i></a>  &nbsp;                                
+                {% endif %}
+
+                {% if author[1].instagram %}
+                <a target="_blank" href="{{ author[1].instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;
+                {% endif %}
+
+                {% if author[1].linkedIn %}
+                <a target="_blank" href="{{ author[1].linkedIn }}"><i class="fab fa-linkedIn text-muted" aria-hidden="true"></i></a>  &nbsp;
+                {% endif %}
+                
+            </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
             {% assign posts = site.posts | where:"author","XinYaanZyoy" %}
