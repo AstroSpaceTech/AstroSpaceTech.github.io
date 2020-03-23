@@ -43,8 +43,16 @@ permalink: "/author-xinyaanzyoy.html"
                     <a target="_blank" href="{{ site.authors.XinYaanZyoy.linkedIn }}"><i class="fab fa-linkedin text-muted" aria-hidden="true"></i></a>  &nbsp;
                     {% endif %}
                     
+                    {% if site.authors.XinYaanZyoy.messenger %}
+                    <a target="_blank" href="{{ site.authors.XinYaanZyoy.messenger }}"><i class="fab fa-facebook-messenger text-muted" aria-hidden="true"></i></a>  &nbsp;
+                    {% endif %}
+                    
+                    {% if site.authors.XinYaanZyoy.whatsapp %}
+                    <a href="https://api.whatsapp.com/send?phone={{ site.authors.XinYaanZyoy.whatsapp }}"><i class="fab fa-whatsapp text-muted" aria-hidden="true"></i></a>
+                    {% endif %}
+                    
                     {% if site.authors.XinYaanZyoy.email %}
-                    <a target="_blank" href="{{ site.authors.XinYaanZyoy.email }}"><i class="fab fa-email text-muted" aria-hidden="true"></i></a>  &nbsp;
+                    <a target="_top" href="mailto:{{ site.authors.XinYaanZyoy.email }}"><i class="fab fa-email text-muted" aria-hidden="true"></i></a>  &nbsp;
                     {% endif %}
                 </div>
                 <p class="excerpt">{{ site.authors.XinYaanZyoy.bio }}</p>
