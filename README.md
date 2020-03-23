@@ -13,4 +13,4 @@ you can also publish your posts on astrospacetech.in,
 checkout CONTRIBUTING.md file for more details.
 ______
 ## sources
-[theme](https://github.com/wowthemesnet/template-mundana-bootstrap-html)
+[theme](https://github.com/wowthemesnet/mundana-theme-jekyll)
