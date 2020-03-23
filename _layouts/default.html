@@ -5,10 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{page.title}} | {{site.name}}</title>
+	<meta property="og:description" content="{{page.title}} by {{page.author}} on AstroSpaceTech.in">
+	<meta property="og:image" content="{{page.image}}">
 
     {% include google_analytics.html %}
+
+	{% feed_meta %}
 	
-    {% feed_meta %}
     {% seo %}
 
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
