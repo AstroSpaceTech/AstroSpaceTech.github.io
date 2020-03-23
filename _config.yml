@@ -99,12 +99,15 @@ authors:
       messenger: https://www.messenger.com/t/49yatriyaan.love
     AstroSpaceTech:
       name: AstroSpaceTech
-      site: "/"
+      site: https://astrospacetech.in/
       avatar: ../assets/images/logo.png
       bio: the Astrospacetech.in, admin!
       email: admin@astrospacetech.in
+      github: https://github.com/AstroSpaceTech
+      youtube: https://www.youtube.com/channel/UC2t-VglCOdthtWfj27xLYjw
       instagram: https://instagram.com/astrospacetech
       facebook: https://facebook.com/AstroSpaceTech.in
+      facebook_group: https://www.facebook.com/groups/267258970150782
       whatsapp: https://chat.whatsapp.com/I4rvFKQp84wDYGZTQp5oLc
 defaults:
   - scope:
