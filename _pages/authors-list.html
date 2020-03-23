@@ -43,9 +43,25 @@ permalink: "/authors-list.html"
                 {% if author[1].instagram %}
                 <a target="_blank" href="{{ author[1].instagram }}"><i class="fab fa-instagram text-muted" aria-hidden="true"></i></a>  &nbsp;
                 {% endif %}
+                
+                {% if author[1].spotify %}
+                    <a target="_blank" href="{{ author[1].spotify }}"><i class="fab fa-spotify text-muted" aria-hidden="true"></i></a>  &nbsp;
+                {% endif %}
 
                 {% if author[1].linkedIn %}
                 <a target="_blank" href="{{ author[1].linkedIn }}"><i class="fab fa-linkedIn text-muted" aria-hidden="true"></i></a>  &nbsp;
+                {% endif %}
+                
+                {% if author[1].messenger %}
+                <a target="_blank" href="{{ author[1].messenger }}"><i class="fab fa-facebook-messenger text-muted" aria-hidden="true"></i></a>  &nbsp;
+                {% endif %}
+                    
+                {% if author[1].whatsapp %}
+                <a href="https://api.whatsapp.com/send?phone={{ author[1].whatsapp }}"><i class="fab fa-whatsapp text-muted" aria-hidden="true"></i></a> &nbsp;
+                {% endif %}
+
+                {% if author[1].email %}
+                <a target="_top" href="mailto:{{ author[1].email }}"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
                 {% endif %}
                 
             </div>
