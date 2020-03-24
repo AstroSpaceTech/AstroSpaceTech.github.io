@@ -44,7 +44,7 @@ By mathematically computation of the energy consumption,we are currently in Type
 
 # WHERE EXACTLY ARE ASTEROIDS LOCATED? 
 
-<img src="/assets/images/store/IMG-20200324-WA0007.jpg">
+<img src="/assets/images/store/IMG-20200325-WA0001.jpg">
 - Based on their locations in the solar system, asteroids are categorized as:
 
 1) Main Belt Asteroids(MBA) :Between Mars and Jupiter
