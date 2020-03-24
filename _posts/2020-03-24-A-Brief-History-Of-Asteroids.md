@@ -44,7 +44,7 @@ By mathematically computation of the energy consumption,we are currently in Type
 
 # WHERE EXACTLY ARE ASTEROIDS LOCATED? 
 
-![](assets/images/store/IMG-20200324-WA0007.jpg)
+<img src="/assets/images/store/IMG-20200324-WA0007.jpg">
 - Based on their locations in the solar system, asteroids are categorized as:
 
 1) Main Belt Asteroids(MBA) :Between Mars and Jupiter
@@ -94,10 +94,11 @@ TIMELINES OF ASTEROIDS
 
 # HOW TO CALCULATE ASTEROID SPEED AND DISTANCES
 
-![](assets/images/store/IMG-20200324-WA0009.jpg)
+<img src="/assets/images/store/IMG-20200324-WA0009.jpg">
 We are living between stones in our solar system. Rocky planets such as Mercury, Venus, Earth, Mars. After that it is Asteroid Belt followed by gas giant belts such as Jupiter, Saturn, Uranus, Neptune and Pluto. The next Belt is Kuiper Belt or Comet Belt and then Oort cloud beyond our solar system. We hope that one day we will touch the sky and colonised our galaxy. Be a multi-planetary speciesl! 
 
-* Note:The asteroid (2020CH) which is going to passed through on 29th April, 2020 has no affects on Earth. Do not panic. *
+
+*Note:The asteroid (2020CH) which is going to passed through on 29th April, 2020 has no affects on Earth. Do not panic.*
 
 > "Why go the stars? 
 > 
