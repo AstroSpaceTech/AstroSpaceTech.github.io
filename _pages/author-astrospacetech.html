@@ -9,6 +9,10 @@ permalink: "/author-astrospacetech.html"
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
+                <h2 class="font-weight-bold">{{page.title}}</h2>
+                <div class="col-md-3 text-right">
+                    <img alt="{{ site.authors.AstroSpaceTech.name }}" src="{{site.baseurl}}/{{ site.authors.AstroSpaceTech.avatar }}" class="rounded-circle" height="100" width="100">
+                </div>
                 <div>
                 {% if site.authors.AstroSpaceTech.site %}
                 <a target="_blank" href="{{ site.authors.AstroSpaceTech.site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
@@ -55,9 +59,6 @@ permalink: "/author-astrospacetech.html"
                 {% endif %}
             </div>
                 <p class="excerpt">{{ site.authors.AstroSpaceTech.bio }}</p>
-            </div>
-            <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.AstroSpaceTech.name }}" src="{{site.baseurl}}/{{ site.authors.AstroSpaceTech.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
