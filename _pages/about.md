@@ -3,7 +3,7 @@ title: "About"
 layout: page-sidebar
 permalink: "/about.html"
 # image: "../assets/images/logo.png"
-comments: true
+comments: false
 ---
 
 AstroSpaceTech is an international platform for various STEM students mainly focus on Astronomy, Aerospace engineering and Technology.
