@@ -4,7 +4,14 @@ title:  "Confusing definitions in Astronomy"
 author: AstromuonKuki
 categories: [ Astronomy ]
 image: ../assets/images/posts/confusing-definations-in-astronomy.jpg
-tags: [ featured, Astronomy, asteroids, comets, planets, meteorites, meteors ]
+tags: 
+  - featured
+  - Astronomy
+  - asteroids
+  - comets
+  - planets
+  - meteorites
+  - meteors
 ---
 # METEOR:
 > A meteor is a piece of rock that burns up in the atmosphere as it streaks across the sky.The tails of meteors,which point away from the direction of motion,are caused by air friction.On a clear night,you might see a meteor every few minutes simply by gazing upward.
