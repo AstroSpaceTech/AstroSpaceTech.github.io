@@ -9,4 +9,4 @@ permalink: "/quizzes"
 **We provide online quiz on various STEM subjects with free certification. Note that only students who score the minimum passing grade will be issued certification.**
 
 - Advanced Astronomy and Astrophysics:
-    [Take in](/quizzes/testing101)
+    [Take in](/quizzes/adv_astro_phy)
