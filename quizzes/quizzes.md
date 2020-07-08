@@ -6,4 +6,8 @@ permalink: "/quizzes"
 
 # Quizzes
 
-These are list of quizzes AstroSpaceTech.in is hosting, free certification on finishing with passing grades is provided to all takers.
+**These are list of quizzes AstroSpaceTech.in is hosting, free certification on finishing with passing grades is provided to all takers.**
+
+- teating101:
+    Description
+    [Take in](/testing101.html)
