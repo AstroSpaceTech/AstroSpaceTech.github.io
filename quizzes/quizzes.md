@@ -1,5 +1,5 @@
 ---
-title: "Authors"
+title: "Quizzes"
 layout: default
 permalink: "/quizzes"
 ---
