@@ -8,6 +8,6 @@ permalink: "/quizzes"
 
 **We provide online quiz on various STEM subjects with free certification. Note that only students who score the minimum passing grade will be issued certification.**
 
-- testing101 JUL 08 2020:
+- Advanced Astronomy and Astrophysics:
     Description
     [Take in](/quizzes/testing101)
