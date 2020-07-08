@@ -6,8 +6,8 @@ permalink: "/quizzes"
 
 # Quizzes
 
-**These are list of quizzes AstroSpaceTech.in is hosting, free certification on finishing with passing grades is provided to all takers.**
+**We provide online quiz on various STEM subjects with free certification. Note that only students who score the minimum passing grade will be issued certification.**
 
-- teating101 JUL 08 2020:
+- testing101 JUL 08 2020:
     Description
     [Take in](/quizzes/testing101)
