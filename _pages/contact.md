@@ -3,9 +3,6 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<a class="twitter-timeline" href="https://twitter.com/_AstroSpaceTech?ref_src=twsrc%5Etfw">Tweets by _AstroSpaceTech</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 [YouTube](https://www.youtube.com/channel/UC2t-VglCOdthtWfj27xLYjw)
 [Facebook Page](http://facebook.com/AstroSpaceTech.in)
 [Facebook Group](https://www.facebook.com/groups/267258970150782/?source_id=668639690221394)
