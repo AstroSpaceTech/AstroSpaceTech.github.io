@@ -5,6 +5,8 @@ layout: page-sidebar
 comments: false
 ---
 
+**WHO WE ARE?**
+
 AstroSpaceTech is the only  and first international platform which will provide Space Education in vernacular language. It aims to enlighten the world in the fields of Astronomy & Space Technology especially for high school students, public and non-techical backgrounds. We wanted this platform not only to solve the problems face by undergrads students for providing opportunity to do their projects, trainings, internships,classes(offline/online) and get work experiences.We are also aiming to touch the Stars in the future with our own rocket. We believe the future is in the stars. Are you with us? 
 
 > *I don’t think the human race will survive the next 1,000 years, unless we spread into space. There are too many accidents that can befall life on a single planet. But I’m an optimist. We will reach out to the stars. – Stephen Hawking*
