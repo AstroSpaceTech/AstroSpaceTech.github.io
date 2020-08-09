@@ -81,3 +81,5 @@ BE  A MULTI-PLANETARY        SPECIES!
 > *The sky calls to us. If we do not destroy ourselves, we will one day venture to the stars ~Carl Sagan*
 
 > *𝔸𝕝𝕠𝕟𝕖 𝕨𝕖 𝕔𝕒𝕟 𝕕𝕠 𝕤𝕠 𝕝𝕚𝕥𝕥𝕝𝕖; 𝕥𝕠𝕘𝕖𝕥𝕙𝕖𝕣 𝕨𝕖 𝕔𝕒𝕟 𝕕𝕠 𝕤𝕠 𝕞𝕦𝕔𝕙. – ℍ𝕖𝕝𝕖𝕟 𝕂𝕖𝕝𝕝𝕖𝕣*
+
+![Space COlony](https://astrospacetech.in/assets/images/store/FB_IMG_1595768509722.jpg)
