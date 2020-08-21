@@ -15,64 +15,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
-teams:
-    Astro:
-      name: Astronomy
-      leader: Anudeep
-      assistant: AvinabaMajumdar
-      avatar: ../assets/images/avatars/astro.jpg
-      details: this is astro team
-      contact:
-      members:
-        Anudeep:
-          name: Anudeep
-          avatar: ../assets/images/avatars/anudeep.jpg
-          bio: Student of Mechanical and Automation Engineering. <br> Rajasthaan, 🇮🇳 India.
-          email: meharanudeep.183@gmail.com
-        AvinabaMajumdar:
-          name: AvinabaMajumdar
-          avatar: ../assets/images/avatars/Alex.jpg
-          bio: Junior Researcher at the New-York Academy of sciences. <br> West Bengal, 🇮🇳 India.
-          email: avinaba.wtms@gmail.com
-    Space:
-      name: Aerospace
-      head: BrianBlasius
-      assistant:
-      avatar: ../assets/images/avatars/aerospace.jpg
-      details: this is space science team
-      constact:
-      members:
-        BrianBlasius:
-          name: Brian Blasius
-          avatar: ../assets/images/avatars/brian.jpg
-          bio: Student of Mechatronics. <br> Malindi, 🇰🇪 Kenya.
-          email: einsteinblasius@gmail.com
-        Norbu:
-          name: Kinley Norbu
-          avatar: ../assets/images/avatars/norbu.jpg
-          bio:  Drilling engineer; Department of Geology and Mine Under Ministry of Economic Affairs(Bhutan), and degree in Mechatronics Engineer, 🇧🇹 Bhutan.
-          email: drogpo.nk@gmail.com
-    Tech:
-      name: Technology
-      head: XinYaanZyoy
-      assistant:
-      avatar: ../assets/images/avatars/tech.jpg
-      details: this is technology team
-      contact:
-      members:
-        XinYaanZyoy:
-          name: XinYaanZyoy
-          site: https://XinYaanZyoy.github.io
-          avatar: ../assets/images/avatars/XinYaanZyoy.jpg
-          bio: Co-Founder of astrospacetech.in, student of Aerospace Engineering, and a Metaphysicist. <br> Gujarat, 🇮🇳 India.
-          email: tech@astrospacetech.in
-          twitter: https://twitter.com/XinYaanZyoy
-          github: https://github.com/XinYaanZyoy
-          facebook: https://facebook.com/49yatriyaan.love
-          instagram: https://instagram.com/49yatriyaan.love
-  
-authors:
+
+team:
     AstromuonKuki:
       name: AstromuonKuki
       site: https://blog.astrospacetech.in
@@ -97,6 +41,38 @@ authors:
       linkedIn: https://www.linkedin.com/in/xin-yaan-zyoy-1563b6154
       whatsapp: +918155903610
       messenger: https://www.messenger.com/t/49yatriyaan.love
+    BrianBlasius:
+      name: Brian Blasius
+      avatar: ../assets/images/avatars/brian.jpg
+      bio: Student of Mechatronics. <br> Malindi, 🇰🇪 Kenya.
+      email: einsteinblasius@gmail.com
+    Norbu:
+      name: Kinley Norbu
+      avatar: ../assets/images/avatars/norbu.jpg
+      bio:  Drilling engineer; Department of Geology and Mine Under Ministry of Economic Affairs(Bhutan), and degree in Mechatronics Engineer, 🇧🇹 Bhutan.
+      email: drogpo.nk@gmail.com
+    RavikantDohre:
+      name: Ravikant Dohre
+      avatar: ../assets/images/avatars/RavikantDohre.jpg
+      bio: Student of Aerospace Engineering, MP, india
+    Anudeep:
+      name: Anudeep
+      avatar: ../assets/images/avatars/anudeep.jpg
+      bio: Student of Mechanical and Automation Engineering. <br> Rajasthaan, 🇮🇳 India.
+      email: meharanudeep.183@gmail.com
+    AvinabaMajumdar:
+      name: AvinabaMajumdar
+      avatar: ../assets/images/avatars/Alex.jpg
+      bio: Junior Researcher at the New-York Academy of sciences. <br> West Bengal, 🇮🇳 India.
+      email: avinaba.wtms@gmail.com
+    MangHaokip:
+      name: Mang Haokip
+      avatar: ../assets/images/avatars/MangHaokip.jpg
+      bio: Master in geology at IIT(ISM)
+    MineoKhongsai:
+      name: Mineo Khongsai
+      avatar: ../assets/images/avatars/MineoKhongsai.jpg
+      bio: 
 #     AstroSpaceTech:
 #       name: AstroSpaceTech
 #       site: https://astrospacetech.in/
@@ -109,6 +85,7 @@ authors:
 #       facebook: https://facebook.com/AstroSpaceTech.in
 #       facebook_group: https://www.facebook.com/groups/267258970150782
 #       whatsapp: https://chat.whatsapp.com/I4rvFKQp84wDYGZTQp5oLc
+
 defaults:
   - scope:
       path: "_posts"
