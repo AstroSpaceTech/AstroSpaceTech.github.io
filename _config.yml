@@ -73,6 +73,10 @@ team:
       name: Mineo Khongsai
       avatar: ../assets/images/avatars/MineoKhongsai.jpg
       bio: 
+    Ganesh:
+      name: Ganesh
+      avatar: ../assets/images/avatars/Ganesh.jpg
+      bio: Market Analysis and Product Developement
 #     AstroSpaceTech:
 #       name: AstroSpaceTech
 #       site: https://astrospacetech.in/
