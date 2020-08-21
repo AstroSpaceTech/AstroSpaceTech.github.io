@@ -14,7 +14,7 @@ permalink: "/team-astronomy.html"
             <div class="row">
             <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ member[1].name }}" src="{{site.baseurl}}/{{ member[1].avatar }}" class="rounded-circle ASTpropic" height="80" width="80"></div>
             <div class="col-md-9">
-            <a href="{{site.baseurl}}/member-{{ member[1].name | slugify }}">
+            <a href="{{site.baseurl}}/{{ member[1].name | slugify }}">
             <h4 class="text-dark mb-0"> {{ member[1].name }} </h4>
             <small class="d-inline-block mt-1 mb-3 font-weight-normal">(Biography)</small>
             <div class="excerpt">{{ member[1].bio }}</div>
