@@ -1,3 +1,5 @@
+__NOTE__: Site is down sue to financial issues, will be online soon.
+
 # AstroSpaceTech.in
 ### this is repo which generates official website of AstroSpaceTech.in
 
